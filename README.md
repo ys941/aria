@@ -212,4 +212,3 @@ Credit to the original author stays visible:
   in your environment — nothing is transmitted, the value is compared locally.
 
 See [`backend/attribution.py`](backend/attribution.py) and [COPYRIGHT.md](COPYRIGHT.md).
-A purely private deployment nobody else uses is exempt.
