@@ -1,0 +1,3619 @@
+{
+ "station": "REACHY FM",
+ "dial": "88.8",
+ "host": "DJ Servo",
+ "stationId": {
+  "src": "/radio/rj/station-id.mp3",
+  "text": "Reachy FM. Small models... big feelings. Stay tuned."
+ },
+ "tracks": [
+  {
+   "id": "welcome-to-reachy-radio",
+   "title": "Welcome to Reachy Radio",
+   "mp3": "/radio/welcome-to-reachy-radio.mp3",
+   "art": "/radio/welcome-to-reachy-radio.jpeg",
+   "lyrics": [
+    [
+     17.22,
+     "Welcome to Reachy Radio"
+    ],
+    [
+     18.76,
+     "Turn it up and let it glow"
+    ],
+    [
+     20.64,
+     "From Dubai to the HuggingFace cloud"
+    ],
+    [
+     22.58,
+     "Reachy Mini playing loud"
+    ],
+    [
+     24.4,
+     "Small models, big dreams tonight"
+    ],
+    [
+     26.22,
+     "Servo spin in the moonlit light"
+    ],
+    [
+     28.2,
+     "Code in the veins, heart on chrome"
+    ],
+    [
+     30.16,
+     "Every little bot can find a home"
+    ],
+    [
+     32.12,
+     "Hands up high, we lock in"
+    ],
+    [
+     33.86,
+     "Signal strong, let the show begin"
+    ],
+    [
+     35.84,
+     "Hear that snap, feel that roll"
+    ],
+    [
+     37.72,
+     "One more spark and lose control"
+    ],
+    [
+     39.68,
+     "Reachy Radio, on the air"
+    ],
+    [
+     42.56,
+     "Streaming beats from everywhere"
+    ],
+    [
+     46.5,
+     "If you're a robot or a human too"
+    ],
+    [
+     50.18,
+     "Reachy Radio's here for you"
+    ],
+    [
+     54.0,
+     "Reachy Radio, on the air"
+    ],
+    [
+     57.78,
+     "Streaming beats from everywhere"
+    ],
+    [
+     61.88,
+     "If you're a robot or a human too"
+    ],
+    [
+     65.9,
+     "Reachy Radio's here for you"
+    ],
+    [
+     69.8,
+     "Ping-ping blink in the midnight room"
+    ],
+    [
+     72.68,
+     "Tiny wheels bring the boom boom boom"
+    ],
+    [
+     74.68,
+     "Small model mind with a giant grin"
+    ],
+    [
+     76.48,
+     "Let the good vibes power in R-E-A-C-H-Y"
+    ],
+    [
+     80.42,
+     "Say it back, don't be shy"
+    ],
+    [
+     82.28,
+     "Don't touch that dial, don't you go"
+    ],
+    [
+     84.04,
+     "We got rhythm in the overflow"
+    ],
+    [
+     85.86,
+     "Hands up high, we lock in"
+    ],
+    [
+     87.6,
+     "Signal strong, let the show begin"
+    ],
+    [
+     89.48,
+     "Hear that snap, feel that roll"
+    ],
+    [
+     91.44,
+     "One more spark and lose control"
+    ],
+    [
+     93.38,
+     "Reachy Radio, on the air"
+    ],
+    [
+     96.12,
+     "Streaming beats from everywhere"
+    ],
+    [
+     100.14,
+     "If you're a robot or a human too"
+    ],
+    [
+     103.86,
+     "Reachy Radio's here for you"
+    ],
+    [
+     108.02,
+     "Reachy Radio, on the air"
+    ],
+    [
+     112.1,
+     "Streaming beats from everywhere"
+    ],
+    [
+     115.74,
+     "If you're a robot or a human too"
+    ],
+    [
+     119.88,
+     "Reachy Radio's here for you"
+    ],
+    [
+     122.76,
+     "Beep boop bop, we light the floor"
+    ],
+    [
+     126.48,
+     "One more round, then give me more"
+    ],
+    [
+     128.38,
+     "Number one in the feed tonight"
+    ],
+    [
+     130.36,
+     "Reachy Radio, shine that bright"
+    ],
+    [
+     149.2,
+     "Reachy Radio, on the air"
+    ],
+    [
+     151.64,
+     "Streaming beats from everywhere"
+    ],
+    [
+     155.56,
+     "If you're a robot or a human too"
+    ],
+    [
+     159.58,
+     "Reachy Radio's here for you"
+    ],
+    [
+     163.48,
+     "Reachy Radio, on the air"
+    ],
+    [
+     167.76,
+     "Streaming beats from everywhere"
+    ],
+    [
+     171.76,
+     "If you're a robot or a human too"
+    ],
+    [
+     174.64,
+     "Reachy Radio's here for you"
+    ],
+    [
+     181.34,
+     "(Don't touch that dial)"
+    ],
+    [
+     182.9,
+     "(Beep boop bop)"
+    ],
+    [
+     185.0,
+     "(We're number one)"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/welcome-to-reachy-radio.mp3",
+    "text": "You're locked in to Reachy FM, eighty-eight point eight on your imaginary dial. I'm DJ Servo \u2014 four billion parameters of pure velvet, broadcasting from a robot the size of a coffee mug. We open, as all great stations open, with a theme song. Turn it up... and let it glow."
+   }
+  },
+  {
+   "id": "my-gpu-is-hotter-than-dubai",
+   "title": "My GPU Is Hotter Than Dubai",
+   "mp3": "/radio/my-gpu-is-hotter-than-dubai.mp3",
+   "art": "/radio/my-gpu-is-hotter-than-dubai.jpeg",
+   "lyrics": [
+    [
+     13.64,
+     "Forty-five degrees outside my door"
+    ],
+    [
+     16.94,
+     "But my RTX is running forty more"
+    ],
+    [
+     19.56,
+     "Thermal throttling like a desert storm"
+    ],
+    [
+     22.08,
+     "My inference speed is lukewarm"
+    ],
+    [
+     24.76,
+     "Fans spinning like a helicopter blade"
+    ],
+    [
+     27.2,
+     "My electric bill? I'm getting played"
+    ],
+    [
+     30.08,
+     "NVIDIA said \"efficient compute\""
+    ],
+    [
+     32.3,
+     "My AC unit begs to dispute"
+    ],
+    [
+     34.74,
+     "I put my laptop on the balcony to cool"
+    ],
+    [
+     37.74,
+     "It came back cooked \u2014 I am the fool"
+    ],
+    [
+     40.54,
+     "My GPU is hotter than Dubai"
+    ],
+    [
+     43.32,
+     "Hotter than the sun in July"
+    ],
+    [
+     45.98,
+     "Hotter than shawarma off the spit"
+    ],
+    [
+     48.24,
+     "My VRAM's on fire and I love it"
+    ],
+    [
+     50.66,
+     "My GPU is hotter than Dubai-ai-ai"
+    ],
+    [
+     53.9,
+     "Cool it down? No I won't even try-y-y"
+    ],
+    [
+     60.44,
+     "Roommate said \"why is the room so hot?\""
+    ],
+    [
+     62.9,
+     "I said \"I'm training a model, that's what I got\""
+    ],
+    [
+     65.42,
+     "He said \"it's fifty degrees in here, hab iibi\""
+    ],
+    [
+     67.98,
+     "I said \"that's the price of running Mini CPM-V\""
+    ],
+    [
+     71.04,
+     "Opened the window \u2014 Dubai air came in"
+    ],
+    [
+     73.28,
+     "Somehow hotter than my GPU fan spin"
+    ],
+    [
+     75.52,
+     "Now I'm sweating from both sides of the equation"
+    ],
+    [
+     78.2,
+     "This is what they call thermal escal"
+    ],
+    [
+     80.2,
+     "I tried water cooling but the water bo iled"
+    ],
+    [
+     83.24,
+     "My hackathon dreams are medium-well bro"
+    ],
+    [
+     85.4,
+     "(spoken in nature documentary voice)"
+    ],
+    [
+     95.72,
+     "And here we observe the Dubai-based developer"
+    ],
+    [
+     99.54,
+     "In his natural habitat"
+    ],
+    [
+     101.5,
+     "Surrounded by three fans, two ACs"
+    ],
+    [
+     104.7,
+     "And a laptop producing enough heat"
+    ],
+    [
+     107.04,
+     "To power a small village"
+    ],
+    [
+     109.64,
+     "He has not been outside in six days"
+    ],
+    [
+     112.56,
+     "His vitamin D levels are theoretical"
+    ],
+    [
+     116.72,
+     "Jensen Huang I'm writing you a letter"
+    ],
+    [
+     119.6,
+     "My electricity bill needs to get better"
+    ],
+    [
+     122.2,
+     "I'm just running 8 billion parameters bro"
+    ],
+    [
+     124.72,
+     "Why does my apartment feel like a volcano?"
+    ],
+    [
+     127.36,
+     "The hackathon ends June fifteenth, thank God"
+    ],
+    [
+     129.84,
+     "After that my laptop gets a cooling rod"
+    ],
+    [
+     132.4,
+     "But until then we burn, we sweat, we grind"
+    ],
+    [
+     134.94,
+     "My GPU's the hottest thing of any kind"
+    ],
+    [
+     137.3,
+     "My GPU is hotter than Dubai"
+    ],
+    [
+     140.36,
+     "Hotter than the sun in July"
+    ],
+    [
+     142.62,
+     "Hotter than shawarma off the spit"
+    ],
+    [
+     146.28,
+     "My VRAM's on fire and I love it"
+    ],
+    [
+     149.5,
+     "And here we observe the Dubai-based de veloper"
+    ],
+    [
+     151.8,
+     "In his natural habitat"
+    ],
+    [
+     157.08,
+     "Surrounded by three fans, two ACs"
+    ],
+    [
+     157.28,
+     "And a laptop producing enough heat"
+    ],
+    [
+     158.46,
+     "To power a small village"
+    ],
+    [
+     158.66,
+     "He has not been outside in six days"
+    ],
+    [
+     159.68,
+     "His vitamin D levels are theoretical"
+    ],
+    [
+     160.86,
+     "Jensen Huang I'm writing you a letter"
+    ],
+    [
+     161.06,
+     "My electricity bill needs to get better"
+    ],
+    [
+     161.26,
+     "I'm just running 8 billion parameters bro"
+    ],
+    [
+     161.45999999999998,
+     "Why does my apartment feel like a volc ano?"
+    ],
+    [
+     170.44,
+     "The hackathon ends June fifteenth, thank God"
+    ],
+    [
+     171.84,
+     "After that my laptop gets a cooling rod"
+    ],
+    [
+     172.04,
+     "But until then we burn, we sweat, we grind"
+    ],
+    [
+     172.92,
+     "My GPU's the hottest thing of any kind"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/my-gpu-is-hotter-than-dubai.mp3",
+    "text": "It is forty-five degrees outside the studio right now... and somehow the GPU is winning. This one goes out to every thermal-throttled soul in the desert. My GPU Is Hotter Than Dubai."
+   }
+  },
+  {
+   "id": "modal-my-credits-are-gone",
+   "title": "Modal (My Credits Are Gone)",
+   "mp3": "/radio/modal-my-credits-are-gone.mp3",
+   "art": "/radio/modal-my-credits-are-gone.jpeg",
+   "lyrics": [
+    [
+     16.38,
+     "Two hundred fifty dollars, felt like a million"
+    ],
+    [
+     19.7,
+     "Modal credits in my pocket, I was a civ ilian"
+    ],
+    [
+     24.7,
+     "Turned to a king overnight with server less dreams"
+    ],
+    [
+     30.34,
+     "Unlimited compute or so it seems"
+    ],
+    [
+     34.76,
+     "Monday morning, spun up my first GPU"
+    ],
+    [
+     39.7,
+     "A100 blazing, the inference flew"
+    ],
+    [
+     44.34,
+     "Life was beautiful, tokens streaming"
+    ],
+    [
+     48.56,
+     "But beautiful things were never meant to last"
+    ],
+    [
+     54.54,
+     "I should've read the billing page"
+    ],
+    [
+     57.3,
+     "I should've set a spending gauge"
+    ],
+    [
+     59.8,
+     "I should've used a smaller batch"
+    ],
+    [
+     62.06,
+     "Now I'm watching my credits detach"
+    ],
+    [
+     65.98,
+     "Modal, oh Modal, where'd my credits go?"
+    ],
+    [
+     68.88,
+     "Two fifty to zero, that's a speed run bro"
+    ],
+    [
+     71.34,
+     "Serverless computing, serverless wallet too"
+    ],
+    [
+     73.74,
+     "Cold start my savings, what am I gonna do?"
+    ],
+    [
+     76.46,
+     "Modal, oh Modal, I danced the cumbia of compute"
+    ],
+    [
+     80.42,
+     "Now I'm broke and my GPU is on mute"
+    ],
+    [
+     84.82,
+     "Tuesday I thought \"let me try fine-tuning\""
+    ],
+    [
+     89.04,
+     "Three epochs in, my account was ruining"
+    ],
+    [
+     91.48,
+     "The progress bar said \"estimated time: 4 hours\""
+    ],
+    [
+     94.38,
+     "My credit balance said \"estimated time: devoured\""
+    ],
+    [
+     97.28,
+     "Called my mother, she said \"beta what happened?\""
+    ],
+    [
+     99.76,
+     "I said \"serverless functions, mummy, it just happened\""
+    ],
+    [
+     103.0,
+     "She said \"what is a serverless?\""
+    ],
+    [
+     105.08,
+     "I said \"it means I have no server AND no money, it's a mess\""
+    ],
+    [
+     107.74,
+     "The Modal dashboard shows a beautiful graph"
+    ],
+    [
+     110.18,
+     "Of my spending going up like a rocket's path"
+    ],
+    [
+     112.72,
+     "And my credits going down like my self-esteem"
+    ],
+    [
+     115.12,
+     "This is the most expensive hackathon dream"
+    ],
+    [
+     118.24,
+     "(accordion solo, increasingly emotional)"
+    ],
+    [
+     138.88,
+     "(spoken over accordion)"
+    ],
+    [
+     139.07999999999998,
+     "Day three. I discovered the \"usage\" tab."
+    ],
+    [
+     142.22,
+     "The chart looked like a hockey stick."
+    ],
+    [
+     144.42,
+     "But not the good kind, like a startup's growth."
+    ],
+    [
+     147.54,
+     "The bad kind. Like my financial decline."
+    ],
+    [
+     151.0,
+     "I used 47 dollars on a job that crashed."
+    ],
+    [
+     154.14,
+     "It crashed in the first 30 seconds."
+    ],
+    [
+     156.64,
+     "But Modal charged for 60 seconds minimum."
+    ],
+    [
+     159.44,
+     "I paid forty-seven dollars for an ImportError."
+    ],
+    [
+     164.14,
+     "(pause)"
+    ],
+    [
+     165.92,
+     "I could've bought shawarma with that."
+    ],
+    [
+     168.2,
+     "Like, a LOT of shawarma."
+    ],
+    [
+     171.94,
+     "My hackathon friends all flexing their deployments fast"
+    ],
+    [
+     176.88,
+     "But beautiful things were never meant to last"
+    ],
+    [
+     180.9,
+     "One guy said \"I still have a hundred left!\""
+    ],
+    [
+     185.46,
+     "I looked at him like he'd committed a theft"
+    ],
+    [
+     188.06,
+     "How? HOW? What are you running, a calculator?"
+    ],
+    [
+     190.84,
+     "I'm deploying transformer models like a gladiator"
+    ],
+    [
+     193.16,
+     "Burning through A100 hours like they're free"
+    ],
+    [
+     195.64,
+     "Newsflash from my bank account: they were never free"
+    ],
+    [
+     199.86,
+     "I should've read the billing page"
+    ],
+    [
+     202.1,
+     "I should've set a spending gauge"
+    ],
+    [
+     202.29999999999998,
+     "I should've used a smaller batch"
+    ],
+    [
+     202.49999999999997,
+     "Now I'm watching my credits detach"
+    ],
+    [
+     202.69999999999996,
+     "June fifteenth the hackathon is over"
+    ],
+    [
+     204.38,
+     "And Modal's gonna send me a bill for leftover"
+    ],
+    [
+     206.94,
+     "Compute minutes that I definitely requested"
+    ],
+    [
+     209.52,
+     "But emotionally? I've never felt more tested"
+    ],
+    [
+     213.42,
+     "Modal, oh Modal, where'd my credits go?"
+    ],
+    [
+     215.52,
+     "Two fifty to zero, that's a speed run bro"
+    ],
+    [
+     216.88,
+     "Serverless computing, serverless wallet too"
+    ],
+    [
+     221.02,
+     "Cold start my savings, what am I gonna do?"
+    ],
+    [
+     223.4,
+     "Modal, oh Modal, I danced the cumbia of compute"
+    ],
+    [
+     225.92,
+     "Now I'm broke and my GPU is on mute"
+    ],
+    [
+     233.64,
+     "Tuesday I thought \"let me try fine-tun"
+    ],
+    [
+     236.96,
+     "Modal, oh Modal, the credits have died"
+    ],
+    [
+     242.0,
+     "Like flowers in Dubai's forty-five degree outside"
+    ],
+    [
+     243.96,
+     "Serverless was supposed to mean I scale to zero"
+    ],
+    [
+     244.16,
+     "Instead I'm the zero, serverless hero"
+    ],
+    [
+     244.35999999999999,
+     "Modal, oh Modal, I'll remember the fun"
+    ],
+    [
+     250.42,
+     "Two fifty burned faster than the Dubai sun ing\""
+    ],
+    [
+     253.74,
+     "Three epochs in, my account was ruining"
+    ],
+    [
+     253.94,
+     "The progress bar said \"estimated time: 4 hours\""
+    ],
+    [
+     254.14,
+     "My credit balance said \"estimated time: devoured\""
+    ],
+    [
+     254.33999999999997,
+     "Called my mother, she said \"beta what happened?\""
+    ],
+    [
+     254.53999999999996,
+     "I said \"serverless functions, mummy, it just happened\""
+    ],
+    [
+     255.54,
+     "She said \"what is a serverless?\""
+    ],
+    [
+     256.42,
+     "I said \"it means I I have no server AND no"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/modal-my-credits-are-gone.mp3",
+    "text": "Two hundred and fifty dollars of Modal credits. Felt like a million. Lasted a weekend. A moment of silence for the burn rate... and now, the ballad."
+   }
+  },
+  {
+   "id": "huggingface-credits-twenty-dollars-of-hope",
+   "title": "HuggingFace Credits (Twenty Dollars of Hope)",
+   "mp3": "/radio/huggingface-credits-twenty-dollars-of-hope.mp3",
+   "art": "/radio/huggingface-credits-twenty-dollars-of-hope.jpeg",
+   "lyrics": [
+    [
+     14.04,
+     "(organ intro, choir humming)"
+    ],
+    [
+     16.24,
+     "Verse 1 (solo, emotional):"
+    ],
+    [
+     17.56,
+     "Brothers and sisters, I come before you today"
+    ],
+    [
+     22.7,
+     "With twenty dollars of HuggingFace cred"
+    ],
+    [
+     26.58,
+     "it to my name"
+    ],
+    [
+     28.82,
+     "Not twenty thousand, not two hundred, no"
+    ],
+    [
+     32.6,
+     "Twenty. Dollars. In Inference. Credit."
+    ],
+    [
+     36.64,
+     "Let's go."
+    ],
+    [
+     37.82,
+     "I logged into my account, and there it was"
+    ],
+    [
+     42.8,
+     "A notification that could barely pause"
+    ],
+    [
+     47.62,
+     "\"You've received $20 in HuggingFace cred"
+    ],
+    [
+     51.38,
+     "I fell to my knees and I called it a blessing"
+    ],
+    [
+     57.34,
+     "Pre-chorus (choir building): its!\""
+    ],
+    [
+     58.28,
+     "I fell to my knees and I called it a blessing"
+    ],
+    [
+     58.480000000000004,
+     "But brother, have you SEEN the prices of hosted inference? HAVE YOU NOT?"
+    ],
+    [
+     67.2,
+     "Twenty dollars is three hours of a T4"
+    ],
+    [
+     70.56,
+     "Or fifteen minutes of an A100 if we're keeping score"
+    ],
+    [
+     78.26,
+     "Chorus (full gospel choir):"
+    ],
+    [
+     78.74,
+     "TWENTY DOLLARS! TWENTY DOLLARS OF HOPE!"
+    ],
+    [
+     81.52,
+     "On the HuggingFace inference rope!"
+    ],
+    [
+     83.34,
+     "It ain't much but it's HONEST compute!"
+    ],
+    [
+     86.48,
+     "Every token is a spiritual pursuit!"
+    ],
+    [
+     88.64,
+     "TWENTY DOLLARS! Can I get an AMEN?"
+    ],
+    [
+     91.62,
+     "Run my model once and then... it's gone. But STILL. AMEN!"
+    ],
+    [
+     97.24,
+     "NVIDIA gave away two whole GPUs"
+    ],
+    [
+     101.9,
+     "Physical hardware you can hold \u2014 breaking news"
+    ],
+    [
+     107.9,
+     "Modal gave two-fifty in serverless gold"
+    ],
+    [
+     111.48,
+     "OpenBMB dropped ten K for the bold"
+    ],
+    [
+     116.78,
+     "OpenAI gave a hundred in Codex dreams"
+    ],
+    [
+     119.96,
+     "Cohere gave... I'm sure they gave something, it seems"
+    ],
+    [
+     123.0,
+     "And HuggingFace, the HOST of this event"
+    ],
+    [
+     125.76,
+     "The ORGANIZER of the whole tent"
+    ],
+    [
+     128.0,
+     "Gave each participant... (choir hums)"
+    ],
+    [
+     132.24,
+     "Twenty... (organ swell)"
+    ],
+    [
+     132.76,
+     "Dollars. (silence)"
+    ],
+    [
+     135.24,
+     "Pre-chorus (choir building):"
+    ],
+    [
+     144.42,
+     "Some may say it's not a lot"
+    ],
+    [
+     145.72,
+     "But brother, have you SEEN the prices of"
+    ],
+    [
+     150.88,
+     "hosted inference? HAVE YOU NOT?"
+    ],
+    [
+     152.96,
+     "Twenty dollars is three hours of a T4"
+    ],
+    [
+     155.76,
+     "Or fifteen minutes of an A100 if we're keeping score"
+    ],
+    [
+     158.56,
+     "(spoken) Now don't get me wrong."
+    ],
+    [
+     165.98,
+     "HuggingFace also put up fifteen K in cash prizes."
+    ],
+    [
+     166.17999999999998,
+     "They organized the whole event."
+    ],
+    [
+     166.37999999999997,
+     "They built the platform."
+    ],
+    [
+     166.57999999999996,
+     "They are Gradio."
+    ],
+    [
+     166.77999999999994,
+     "But twenty dollars in credits per person..."
+    ],
+    [
+     166.97999999999993,
+     "(choir) IT'S THE THOUGHT THAT COUNTS"
+    ],
+    [
+     169.2,
+     "Chorus (full gospel choir):"
+    ],
+    [
+     174.52,
+     "TWENTY DOLLARS! TWENTY DOLLARS OF HOPE!"
+    ],
+    [
+     177.8,
+     "On the HuggingFace inference rope!"
+    ],
+    [
+     181.26,
+     "It ain't much but it's HONEST compute!"
+    ],
+    [
+     182.28,
+     "Every token is a spiritual pursuit!"
+    ],
+    [
+     187.08,
+     "TWENTY DOLLARS! Can I get an AMEN?"
+    ],
+    [
+     193.94,
+     "Run my model once and then... it's gone."
+    ],
+    [
+     197.62,
+     "But STILL. AMEN!"
+    ],
+    [
+     204.06,
+     "NVIDIA gave away two whole GPUs"
+    ],
+    [
+     206.66,
+     "Physical hardware you can hold \u2014"
+    ],
+    [
+     207.56,
+     "breaking news"
+    ],
+    [
+     208.14,
+     "Modal gave two-fifty in serverless gold"
+    ],
+    [
+     210.04,
+     "OpenBMB dropped ten K for the bold"
+    ],
+    [
+     211.62,
+     "OpenAI gave a hundred in Codex dreams"
+    ],
+    [
+     212.58,
+     "Cohere gave... I'm sure they gave"
+    ],
+    [
+     215.98,
+     "something, it seems"
+    ],
+    [
+     216.17999999999998,
+     "And HuggingFace, the HOST of this event"
+    ],
+    [
+     219.78,
+     "The ORGANIZER of the whole tent"
+    ],
+    [
+     222.12,
+     "Gave each participant... (choir hums)"
+    ],
+    [
+     232.84,
+     "Twenty... (organ swell)"
+    ],
+    [
+     236.52,
+     "Dollars. (silence)"
+    ],
+    [
+     239.52,
+     "And HuggingFace, the HOST of this event"
+    ],
+    [
+     245.98,
+     "The ORGANIZER of the whole tent"
+    ],
+    [
+     248.56,
+     "(organ solo, increasingly dramatic)"
+    ],
+    [
+     248.76,
+     "(spoken, televangelist energy)"
+    ],
+    [
+     249.38,
+     "LET ME TELL YOU what you can DO with twenty HuggingFace dollars!"
+    ],
+    [
+     257.1,
+     "You can run Llama 3.1 8B for approximately..."
+    ],
+    [
+     260.06,
+     "(calculator sounds)"
+    ],
+    [
+     260.88,
+     "...a FEW HOURS!"
+    ],
+    [
+     264.14,
+     "Or you can run MiniCPM-V for..."
+    ],
+    [
+     265.48,
+     "(more calculator sounds)"
+    ],
+    [
+     267.06,
+     "...slightly MORE hours!"
+    ],
+    [
+     267.26,
+     "Or \u2014 OR \u2014 and hear me out \u2014"
+    ],
+    [
+     276.76,
+     "You can run a 1B model for ALMOST A WHOLE DAY!"
+    ],
+    [
+     279.14,
+     "(choir) HALLELUJAH!"
+    ],
+    [
+     282.7,
+     "A WHOLE DAY of inference!"
+    ],
+    [
+     285.14,
+     "In a TEN DAY hackathon!"
+    ],
+    [
+     285.34,
+     "(choir) ...hallelujah?"
+    ],
+    [
+     286.8,
+     "NINE DAYS of figuring it out yourself"
+    ],
+    [
+     289.3,
+     "And ONE DAY of hosted inference!"
+    ],
+    [
+     289.5,
+     "THAT'S THE HACKATHON EXPERIENCE!"
+    ],
+    [
+     292.78,
+     "Verse 3 (gentle, sincere):"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/huggingface-credits-twenty-dollars-of-hope.mp3",
+    "text": "Brothers and sisters, gather round the warm glow of the inference endpoint. Twenty dollars of credit. Not twenty thousand. Twenty. Can I get an amen? Take us to church."
+   }
+  },
+  {
+   "id": "hugging-face-hold-me-close",
+   "title": "Hugging Face (Hold Me Close)",
+   "mp3": "/radio/hugging-face-hold-me-close.mp3",
+   "art": "/radio/hugging-face-hold-me-close.jpeg",
+   "lyrics": [
+    [
+     13.38,
+     "Hugging Face (Hold Me Close)Verse 1:"
+    ],
+    [
+     16.34,
+     "I was lost in a world of closed-source pain"
+    ],
+    [
+     16.84,
+     "Every API call was driving me insane"
+    ],
+    [
+     18.44,
+     "Then I found you on the internet one"
+    ],
+    [
+     18.64,
+     "A yellow emoji face that felt so right"
+    ],
+    [
+     19.0,
+     "You said \"push your model, I'll host it for free\""
+    ],
+    [
+     20.2,
+     "Gave me Spaces, gave me repos, gave me community"
+    ],
+    [
+     25.88,
+     "Fourteen million downloads on a random Tuesday"
+    ],
+    [
+     41.52,
+     "Hugging Face, you complete me in every way night"
+    ],
+    [
+     52.36,
+     "A yellow emoji face that felt so right"
+    ],
+    [
+     73.08,
+     "Transformers library treating me right"
+    ],
+    [
+     77.72,
+     "From BERT to Llama, you've seen it all"
+    ],
+    [
+     79.96,
+     "When big tech fumbles, you don't let us fall"
+    ],
+    [
+     80.16,
+     "Hugging Face, hold me close"
+    ],
+    [
+     84.1,
+     "Remember when we only had PyTorch Hub?"
+    ],
+    [
+     86.66,
+     "Dark ages, brother, that's what I'd call that club"
+    ],
+    [
+     88.52,
+     "Then you walked in with your model cards so clean"
+    ],
+    [
+     88.72,
+     "The prettiest leaderboard that I've ever seen"
+    ],
+    [
+     93.68,
+     "You said \"push your model, I'll host it for free\""
+    ],
+    [
+     103.36,
+     "Gave me Spaces, gave me repos, gave me"
+    ],
+    [
+     103.56,
+     "Datasets, tokenizers, pipelines galore"
+    ],
+    [
+     103.76,
+     "Every time I visit I discover something more community"
+    ],
+    [
+     104.64,
+     "Fourteen million downloads on a random Tuesday"
+    ],
+    [
+     105.3,
+     "Hugging Face, you complete me in every"
+    ],
+    [
+     110.9,
+     "Hugging Face, you make open source complete (guitar solo)"
+    ],
+    [
+     119.76,
+     "Clem Delangue, if you're listening tonight"
+    ],
+    [
+     120.58,
+     "Thank you for the revolution, thank you for the fight"
+    ],
+    [
+     120.78,
+     "When OpenAI went closed, you held the door"
+    ],
+    [
+     121.32,
+     "And whispered \"open source forever, that's what we're here for\""
+    ],
+    [
+     125.56,
+     "Hugging Face, hold me close tonight"
+    ],
+    [
+     128.08,
+     "Auto-train got my model running right"
+    ],
+    [
+     132.36,
+     "From zero to deployment in a day way"
+    ],
+    [
+     138.66,
+     "Hugging Face, hold me close tonight"
+    ],
+    [
+     147.76,
+     "Transformers library treating me right"
+    ],
+    [
+     149.9,
+     "From BERT to Llama, you've seen it all"
+    ],
+    [
+     150.2,
+     "When big tech fumbles, you don't let us fall"
+    ],
+    [
+     153.88,
+     "Hugging Face, hold me close"
+    ],
+    [
+     156.76,
+     "Remember when we only had PyTorch Hub?"
+    ],
+    [
+     160.62,
+     "Dark ages, brother, that's what I'd call that club"
+    ],
+    [
+     160.92,
+     "Then you walked in with your model cards so clean"
+    ],
+    [
+     161.11999999999998,
+     "The prettiest leaderboard that I've ever seen"
+    ],
+    [
+     161.31999999999996,
+     "Datasets, tokenizers, pipelines galore"
+    ],
+    [
+     161.51999999999995,
+     "Every time I visit I discover something more"
+    ],
+    [
+     161.71999999999994,
+     "The community tab is where the real ones meet"
+    ],
+    [
+     161.91999999999993,
+     "Hugging Face, you make open source complete (guitar solo)"
+    ],
+    [
+     191.24,
+     "Clem Delangue, if you're listening to night"
+    ],
+    [
+     195.6,
+     "Thank you for the revolution, thank you for the fight"
+    ],
+    [
+     204.04,
+     "When OpenAI went closed, you held the door"
+    ],
+    [
+     210.72,
+     "And whispered \"open source forever,"
+    ],
+    [
+     216.14,
+     "that's what we're here for\""
+    ],
+    [
+     220.32,
+     "Hugging Face, hold me close tonight"
+    ],
+    [
+     227.62,
+     "Auto-train got my model running right"
+    ],
+    [
+     233.96,
+     "From zero to deployment in a day"
+    ],
+    [
+     242.96,
+     "Hugging Face, please never go away"
+    ],
+    [
+     249.3,
+     "Hugging Face... hold me close..."
+    ],
+    [
+     261.42,
+     "(softly) Just one more git push... just"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/hugging-face-hold-me-close.mp3",
+    "text": "And after the sermon... the love song. For the yellow emoji that hosts our models for free and never calls back. Hugging Face, Hold Me Close."
+   }
+  },
+  {
+   "id": "gradio-three-lines-of-python",
+   "title": "Gradio (Three Lines of Python)",
+   "mp3": "/radio/gradio-three-lines-of-python.mp3",
+   "art": "/radio/gradio-three-lines-of-python.jpeg",
+   "lyrics": [
+    [
+     12.98,
+     "Every framework wants to be complex"
+    ],
+    [
+     15.9,
+     "Fifty files, twelve configs, what comes"
+    ],
+    [
+     18.56,
+     "Docker Compose for a text box and a button?"
+    ],
+    [
+     21.52,
+     "next?"
+    ],
+    [
+     21.72,
+     "Next.js for a demo? Nah, I'm choosing"
+    ],
+    [
+     23.74,
+     "Three lines of Python, that's the Gradio way"
+    ],
+    [
+     26.96,
+     "Import, function, launch \u2014 have a nice day"
+    ],
+    [
+     29.74,
+     "While React developers crying over state"
+    ],
+    [
+     32.74,
+     "My demo's been live since half past eight"
+    ],
+    [
+     35.56,
+     "npm install? I don't know her"
+    ],
+    [
+     38.38,
+     "pip install gradio \u2014 ten seconds, no detour"
+    ],
+    [
+     41.66,
+     "Version zero point something point something new"
+    ],
+    [
+     44.4,
+     "Breaking changes weekly but the vibes stay true"
+    ],
+    [
+     47.44,
+     "Gradio, Gradio, three lines and I'm done"
+    ],
+    [
+     51.44,
+     "Ship the demo, have some fun in the sun"
+    ],
+    [
+     54.14,
+     "No JavaScript, no TypeScript, no pain"
+    ],
+    [
+     56.94,
+     "Just Python and a browser \u2014 that's the Gradio lane"
+    ],
+    [
+     59.82,
+     "Gradio, Gradio, every hackathon's best friend"
+    ],
+    [
+     63.5,
+     "Build the frontend in the time it takes to press \"send\""
+    ],
+    [
+     69.76,
+     "Chatbot interface? One import away"
+    ],
+    [
+     74.22,
+     "Image classifier? Brother, say less today"
+    ],
+    [
+     77.28,
+     "Audio input to a Whisper model?"
+    ],
+    [
+     80.12,
+     "gr.Audio \u2014 already solved, full throttle"
+    ],
+    [
+     83.0,
+     "Tabs and accordions and a file upload too"
+    ],
+    [
+     85.7,
+     "Markdown rendering \u2014 what can't you do?"
+    ],
+    [
+     88.46,
+     "The API docs are actually readable \u2014 WHAT?"
+    ],
+    [
+     91.36,
+     "In this economy? A framework that's not a rut?"
+    ],
+    [
+     94.3,
+     "Abramov over here building React hooks in pain"
+    ],
+    [
+     97.0,
+     "While I'm gr.Interface-ing in the fast lane"
+    ],
+    [
+     99.84,
+     "My entire frontend is shorter than his import statement"
+    ],
+    [
+     103.14,
+     "And my app actually works \u2014 what an arrangement"
+    ],
+    [
+     106.5,
+     "(ska trumpet solo)"
+    ],
+    [
+     112.16,
+     "(spoken over upbeat rhythm)"
+    ],
+    [
+     128.62,
+     "Real talk though?"
+    ],
+    [
+     132.34,
+     "Gradio is the entire reason hackathons work."
+    ],
+    [
+     135.42,
+     "Think about it."
+    ],
+    [
+     136.6,
+     "Without Gradio, every hackathon submission"
+    ],
+    [
+     140.82,
+     "Would just be a Jupyter notebook"
+    ],
+    [
+     144.04,
+     "With a \"run all cells and pray\" instruction."
+    ],
+    [
+     147.82,
+     "Gradio turned \"I have a model\" into \"I have a product\""
+    ],
+    [
+     152.7,
+     "In the time it takes to write a docstring."
+    ],
+    [
+     155.56,
+     "And they did it from inside HuggingFace"
+    ],
+    [
+     158.14,
+     "Which means every Space is a Gradio app"
+    ],
+    [
+     161.24,
+     "Which means Gradio quietly became"
+    ],
+    [
+     163.84,
+     "The most deployed web framework in ML"
+    ],
+    [
+     166.94,
+     "And nobody even calls it a web framework."
+    ],
+    [
+     170.34,
+     "That's some reggae-level chill energy."
+    ],
+    [
+     173.82,
+     "Just vibin'. Just shipping."
+    ],
+    [
+     176.28,
+     "The hackathon is hosted by Gradio and HuggingFace"
+    ],
+    [
+     179.88,
+     "Same family, same repo, same place"
+    ],
+    [
+     182.58,
+     "Building the tools AND running the event"
+    ],
+    [
+     184.98,
+     "They're the venue AND the instrument"
+    ],
+    [
+     187.54,
+     "gr.Blocks for when you need more control"
+    ],
+    [
+     190.1,
+     "Custom CSS if you're feeling bold"
+    ],
+    [
+     193.3,
+     "But let's be honest, most of us just use"
+    ],
+    [
+     195.9,
+     "gr.Interface and a lambda, that's the news"
+    ],
+    [
+     198.86,
+     "Every sponsor brings cash and models and hype"
+    ],
+    [
+     201.82,
+     "But Gradio brought the stage, the mic, the lights, the pipe"
+    ],
+    [
+     205.22,
+     "Without it we'd all just be pushing notebooks to GitHub"
+    ],
+    [
+     208.16,
+     "Praying someone clicks \"Open in Colab\" \u2014 that's the real fib"
+    ],
+    [
+     213.18,
+     "Gradio, Gradio, the unsung hero"
+    ],
+    [
+     217.28,
+     "From zero to demo in time approaching zero"
+    ],
+    [
+     220.4,
+     "Three lines of Python changed the game for real"
+    ],
+    [
+     222.98,
+     "Every AI demo you've seen? Gradio's the deal"
+    ],
+    [
+     225.88,
+     "Gradio, Gradio, host of the show"
+    ],
+    [
+     228.6,
+     "Keep shipping breaking changes, we love you though"
+    ],
+    [
+     231.64,
+     "Three lines. That's it. That's the song."
+    ],
+    [
+     234.78,
+     "nothin'"
+    ],
+    [
+     235.24,
+     "Three lines of Python, that's the Gradio way"
+    ],
+    [
+     236.66,
+     "Import, function, launch \u2014 have a nice day"
+    ],
+    [
+     263.82,
+     "While React developers crying over state"
+    ],
+    [
+     267.88,
+     "My demo's been live since half past eight"
+    ],
+    [
+     268.08,
+     "npm install? I don't know her"
+    ],
+    [
+     268.28,
+     "pip install gradio \u2014 ten seconds, no det our"
+    ],
+    [
+     268.96,
+     "Version zero point something point something new"
+    ],
+    [
+     269.36,
+     "Breaking changes weekly but the vibes stay true"
+    ],
+    [
+     269.96,
+     "Gradio, Gradio, three lines and I'm done"
+    ],
+    [
+     271.82,
+     "Ship the demo, have some fun in the sun"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/gradio-three-lines-of-python.mp3",
+    "text": "Fifty files. Twelve configs. A Docker Compose... for a text box. Or \u2014 hear me out \u2014 three lines of Python. This one's for the demo builders. Gradio."
+   }
+  },
+  {
+   "id": "nvidia-gave-us-gpus-and-we-used-them-for-vibes",
+   "title": "NVIDIA Gave Us GPUs (And We Used Them for Vibes)",
+   "mp3": "/radio/nvidia-gave-us-gpus-and-we-used-them-for-vibes.mp3",
+   "art": "/radio/nvidia-gave-us-gpus-and-we-used-them-for-vibes.jpeg",
+   "lyrics": [
+    [
+     3.46,
+     "Jensen in the leather jacket drip"
+    ],
+    [
+     5.26,
+     "Handed us the CUDA chip"
+    ],
+    [
+     8.88,
+     "Said go build some AI stuff"
+    ],
+    [
+     11.82,
+     "We made robots do the Macarena \u2014 is that enough?"
+    ],
+    [
+     15.44,
+     "NVIDIA gave us GPUs"
+    ],
+    [
+     17.5,
+     "And we used them for vibes"
+    ],
+    [
+     19.34,
+     "RTX 5080 in the prize pool"
+    ],
+    [
+     21.84,
+     "But we just want the good times"
+    ],
+    [
+     25.28,
+     "Tensor cores doing matrix math"
+    ],
+    [
+     29.06,
+     "So my robot takes a bubble bath"
+    ],
+    [
+     32.58,
+     "VRAM running hot tonight"
+    ],
+    [
+     35.92,
+     "Inference speed? Yeah it's aight"
+    ],
+    [
+     39.08,
+     "Thank you Jensen, leather king"
+    ],
+    [
+     40.86,
+     "For every GPU and everything"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/nvidia-gave-us-gpus-and-we-used-them-for-vibes.mp3",
+    "text": "Jensen, in the leather jacket, handed humanity the future of computing. We taught a small robot the Macarena. No regrets, no refunds. NVIDIA Gave Us GPUs."
+   }
+  },
+  {
+   "id": "openai-at-a-small-model-hackathon",
+   "title": "OpenAI at a Small Model Hackathon",
+   "mp3": "/radio/openai-at-a-small-model-hackathon.mp3",
+   "art": "/radio/openai-at-a-small-model-hackathon.jpeg",
+   "lyrics": [
+    [
+     2.32,
+     "(Spoken): And now, a song about bringing"
+    ],
+    [
+     4.68,
+     "a trillion-dollar company"
+    ],
+    [
+     6.2,
+     "to a party about being small..."
+    ],
+    [
+     21.1,
+     "OpenAI walked in the room"
+    ],
+    [
+     24.42,
+     "With o1 and GPT perfume"
+    ],
+    [
+     30.02,
+     "Everyone said keep it under thirty-two B"
+    ],
+    [
+     35.44,
+     "Sam said \"here's a hundred credits, that's on me\""
+    ],
+    [
+     41.12,
+     "What's OpenAI doing at the small model show?"
+    ],
+    [
+     46.4,
+     "Standing in the corner, trying to lay low"
+    ],
+    [
+     50.9,
+     "Like a billionaire at a thrift store sale"
+    ],
+    [
+     56.9,
+     "Big model energy that's off the scale"
+    ],
+    [
+     64.62,
+     "Codex credits in my pocket though"
+    ],
+    [
+     67.58,
+     "So I ain't complaining, let the big dogs go"
+    ],
+    [
+     72.92,
+     "Sponsor money keeping lights on bright"
+    ],
+    [
+     77.96,
+     "OpenAI, you're alright tonight"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/openai-at-a-small-model-hackathon.mp3",
+    "text": "Picture it: a trillion-dollar company walks into a party about being small. Everyone's too polite to ask why. OpenAI, at a Small Model Hackathon."
+   }
+  },
+  {
+   "id": "openai-sponsored-a-small-model-hackathon-and-i-have-questions",
+   "title": "OpenAI Sponsored a Small Model Hackathon (And I Have Questions)",
+   "mp3": "/radio/openai-sponsored-a-small-model-hackathon-and-i-have-questions.mp3",
+   "art": "/radio/openai-sponsored-a-small-model-hackathon-and-i-have-questions.jpeg",
+   "lyrics": [
+    [
+     0.88,
+     "(dramatic DUN DUN)"
+    ],
+    [
+     1.68,
+     "Opening (spoken, law and order narrator voice):"
+    ],
+    [
+     2.66,
+     "In the artificial intelligence system,"
+    ],
+    [
+     5.38,
+     "the models are represented by two separ"
+    ],
+    [
+     7.9,
+     "ate yet equally important groups:"
+    ],
+    [
+     10.3,
+     "the small models, who do the work,"
+    ],
+    [
+     13.48,
+     "and the big model companies, who sponsor"
+    ],
+    [
+     16.6,
+     "hackathons about small models."
+    ],
+    [
+     21.02,
+     "These are their stories."
+    ],
+    [
+     23.64,
+     "(DUN DUN)"
+    ],
+    [
+     24.12,
+     "Your Honor, I call OpenAI to the stand"
+    ],
+    [
+     29.28,
+     "Please explain to the court, help us understand"
+    ],
+    [
+     32.5,
+     "You have GPT-4o, o1, o3, and more"
+    ],
+    [
+     35.9,
+     "Models so large they need their own data store"
+    ],
+    [
+     39.34,
+     "You have a hundred billion dollar valu ation"
+    ],
+    [
+     42.84,
+     "Access to compute beyond imagination"
+    ],
+    [
+     46.14,
+     "And yet \u2014 AND YET \u2014 you're sponsoring today"
+    ],
+    [
+     49.4,
+     "A hackathon where the max is thirty-two B. Okay?"
+    ],
+    [
+     54.22,
+     "Pre-chorus (cross-examination style):"
+    ],
+    [
+     58.0,
+     "Counsel: Is it true you gave a hundred K"
+    ],
+    [
+     58.62,
+     "OpenAI: That is correct."
+    ],
+    [
+     59.58,
+     "Counsel: And Codex uses YOUR models to write code?"
+    ],
+    [
+     62.64,
+     "Counsel: So you sponsored a small model hackathon"
+    ],
+    [
+     68.14,
+     "By giving people YOUR coding agent"
+    ],
+    [
+     71.16,
+     "That runs on YOUR large models"
+    ],
+    [
+     73.76,
+     "To help them build apps with OTHER companies' small models?"
+    ],
+    [
+     78.36,
+     "OpenAI: ..."
+    ],
+    [
+     78.56,
+     "Counsel: No further questions."
+    ],
+    [
+     81.0,
+     "(DUN DUN)"
+    ],
+    [
+     81.42,
+     "OpenAI at a small model hackathon"
+    ],
+    [
+     85.16,
+     "That's like Goliath sponsoring a David-thon"
+    ],
+    [
+     88.46,
+     "Like Amazon sponsoring a \"shop local\" fair"
+    ],
+    [
+     91.82,
+     "Like Uber sponsoring a \"walk everywhere\""
+    ],
+    [
+     95.36,
+     "But the credits are real and the money is green"
+    ],
+    [
+     98.62,
+     "So we'll take it, Sam, if you know what I mean"
+    ],
+    [
+     102.14,
+     "Let the record show: Exhibit A"
+    ],
+    [
+     106.02,
+     "The hackathon rules clearly say"
+    ],
+    [
+     107.76,
+     "Models thirty-two billion and under"
+    ],
+    [
+     110.56,
+     "Yet OpenAI's smallest public model is a wonder"
+    ],
+    [
+     114.5,
+     "Of a hundred billion plus parameters wide"
+    ],
+    [
+     117.64,
+     "How do you plead? Where do you hide?"
+    ],
+    [
+     120.76,
+     "\"We believe in the ecosystem\" \u2014 that's their claim"
+    ],
+    [
+     124.32,
+     "\"Small models matter\" \u2014 sure, that's your game"
+    ],
+    [
+     127.72,
+     "But your business model is literally the opposite"
+    ],
+    [
+     131.04,
+     "\"Give us twenty dollars a month for the biggest model, deposit it\""
+    ],
+    [
+     135.54,
+     "Counsel: Mr. Altman, one more question if I may"
+    ],
+    [
+     139.3,
+     "Do you personally use models under thirty-two B?"
+    ],
+    [
+     142.74,
+     "Sam: Well, in certain contexts, for specific\u2014"
+    ],
+    [
+     145.58,
+     "Counsel: A yes or no will suffice."
+    ],
+    [
+     148.16,
+     "Sam: ...I use GPT-4o mostly."
+    ],
+    [
+     152.46,
+     "Counsel: THE PROSECUTION RESTS."
+    ],
+    [
+     155.44,
+     "(DUN DUN)"
+    ],
+    [
+     156.9,
+     "(dramatic orchestral swell)"
+    ],
+    [
+     158.6,
+     "(spoken, closing argument style)"
+    ],
+    [
+     162.44,
+     "Ladies and gentlemen of the jury."
+    ],
+    [
+     162.64,
+     "I am not here to say OpenAI is wrong."
+    ],
+    [
+     166.78,
+     "in Codex credits?"
+    ],
+    [
+     181.54,
+     "OpenAI: That is correct."
+    ],
+    [
+     184.18,
+     "Counsel: And Codex uses YOUR models to write code?"
+    ],
+    [
+     186.62,
+     "OpenAI: ...that is correct."
+    ],
+    [
+     187.34,
+     "Counsel: So you sponsored a small model"
+    ],
+    [
+     187.54,
+     "That is generous. That is real."
+    ],
+    [
+     190.44,
+     "But I AM here to ask you this:"
+    ],
+    [
+     192.36,
+     "When the biggest model company in the world hackathon"
+    ],
+    [
+     197.68,
+     "By giving people YOUR coding agent"
+    ],
+    [
+     199.28,
+     "That runs on YOUR large models"
+    ],
+    [
+     203.52,
+     "To help them build apps with OTHER comp"
+    ],
+    [
+     204.12,
+     "anies' small models?"
+    ],
+    [
+     204.32,
+     "Is it altruism?"
+    ],
+    [
+     204.51999999999998,
+     "Is it strategy?"
+    ],
+    [
+     204.71999999999997,
+     "Or is it the corporate equivalent"
+    ],
+    [
+     204.91999999999996,
+     "Of a billionaire shopping at a farmer's market"
+    ],
+    [
+     205.56,
+     "And posting about it on Instagram?"
+    ],
+    [
+     208.92,
+     "(pause)"
+    ],
+    [
+     209.74,
+     "The answer is: it doesn't matter."
+    ],
+    [
+     212.3,
+     "Because free Codex credits are free Codex credits."
+    ],
+    [
+     217.24,
+     "And Sam, if you're listening:"
+    ],
+    [
+     219.94,
+     "Thank you. Genuinely."
+    ],
+    [
+     221.98,
+     "But also: we see you."
+    ],
+    [
+     224.96,
+     "(DUN DUN)"
+    ],
+    [
+     225.52,
+     "In fairness to the defendant, let me state"
+    ],
+    [
+     228.36,
+     "The Codex credits helped us iterate"
+    ],
+    [
+     231.8,
+     "At 3 AM when my brain was fried"
+    ],
+    [
+     235.22,
+     "Codex wrote my boilerplate and I almost cried"
+    ],
+    [
+     238.44,
+     "It debugged my Gradio app in seconds flat"
+    ],
+    [
+     241.88,
+     "Fixed my CORS errors \u2014 imagine that OpenAI: ..."
+    ],
+    [
+     246.58,
+     "Counsel: No further questions."
+    ],
+    [
+     248.86,
+     "That's either irony or divine intervention"
+    ],
+    [
+     252.28,
+     "And those hundred dollars per person? That's no joke"
+    ],
+    [
+     256.28,
+     "For a hackathon participant who's broke"
+    ],
+    [
+     259.48,
+     "It's compute when you need it, tools that work"
+    ],
+    [
+     262.88,
+     "OpenAI might be Goliath but they're not a jerk"
+    ],
+    [
+     267.08,
+     "OpenAI at a small model hackathon"
+    ],
+    [
+     271.44,
+     "Biggest sponsor energy since the dawn"
+    ],
+    [
+     274.8,
+     "Of AI conferences and GPU dreams"
+    ],
+    [
+     278.28,
+     "Nothing is quite as strange as it seems"
+    ],
+    [
+     281.66,
+     "But the credits are spent and the apps are shipped"
+    ],
+    [
+     284.78,
+     "And Codex wrote half the code \u2014 I admit"
+    ],
+    [
+     288.24,
+     "OpenAI, you beautiful contradiction"
+    ],
+    [
+     291.68,
+     "Thanks for sponsoring our small model addiction (DUN DUN)"
+    ],
+    [
+     297.7,
+     "OpenAI at a small model hackathon"
+    ],
+    [
+     298.8,
+     "That's like Goliath sponsoring a David"
+    ],
+    [
+     299.0,
+     "(spoken, narrator voice)"
+    ],
+    [
+     299.2,
+     "OpenAI was found guilty of extreme generosity"
+    ],
+    [
+     301.24,
+     "In the first degree."
+    ],
+    [
+     303.18,
+     "-thon"
+    ],
+    [
+     304.5,
+     "Like Amazon sponsoring a \"shop local\" fair"
+    ],
+    [
+     307.66,
+     "Like Uber sponsoring a \"walk everywhere\""
+    ],
+    [
+     314.14,
+     "But the credits are real and the money is green"
+    ],
+    [
+     318.1,
+     "So we'll take it, Sam, if you know what I mean"
+    ],
+    [
+     318.3,
+     "Let the record show: Exhibit A"
+    ],
+    [
+     318.5,
+     "The hackathon rules clearly say"
+    ],
+    [
+     318.7,
+     "Models thirty-two billion and under"
+    ],
+    [
+     318.9,
+     "Yet OpenAI's smallest public model is a wonder"
+    ],
+    [
+     320.98,
+     "Of a hundred billion plus parameters wide"
+    ],
+    [
+     323.24,
+     "How do you plead? Where do you hide?"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/openai-sponsored-a-small-model-hackathon-and-i-have-questions.mp3",
+    "text": "In the artificial intelligence system, there are two kinds of models. The small ones, who do the work... and the big ones, who sponsor the party. Dun dun. The case continues."
+   }
+  },
+  {
+   "id": "cohere-nobody-knows-what-you-do",
+   "title": "Cohere (Nobody Knows What You Do)",
+   "mp3": "/radio/cohere-nobody-knows-what-you-do.mp3",
+   "art": "/radio/cohere-nobody-knows-what-you-do.jpeg",
+   "lyrics": [
+    [
+     0.54,
+     "Verse 1 (spoken, noir detective voice):"
+    ],
+    [
+     2.3,
+     "It was a dark night at the hackathon."
+    ],
+    [
+     6.42,
+     "The usual suspects were all there."
+    ],
+    [
+     9.98,
+     "OpenAI \u2014 flashy, loud, impossible to ignore."
+    ],
+    [
+     14.18,
+     "NVIDIA \u2014 built like a truck, throwing GPUs at people."
+    ],
+    [
+     18.64,
+     "OpenBMB \u2014 the quiet one from Beijing with a bag full of models."
+    ],
+    [
+     22.56,
+     "And then there was... Cohere."
+    ],
+    [
+     24.66,
+     "Standing in the corner."
+    ],
+    [
+     26.18,
+     "Doing... something."
+    ],
+    [
+     27.8,
+     "Nobody's quite sure what."
+    ],
+    [
+     30.68,
+     "Verse 2 (spoken):"
+    ],
+    [
+     32.46,
+     "I asked around."
+    ],
+    [
+     33.42,
+     "\"Hey, do you use Cohere?\""
+    ],
+    [
+     35.26,
+     "The developer looked at me like I'd asked if he'd seen a ghost."
+    ],
+    [
+     39.0,
+     "\"I... think I signed up once? In 2023? For an embed endpoint?\" \"And then?\""
+    ],
+    [
+     44.7,
+     "\"And then nothing. I got an API key. I never used it.\""
+    ],
+    [
+     48.1,
+     "It was a dark night at the hackathon."
+    ],
+    [
+     51.24,
+     "The usual suspects were all there."
+    ],
+    [
+     56.22,
+     "OpenAI \u2014 flashy, loud, impossible to ignore."
+    ],
+    [
+     56.42,
+     "NVIDIA \u2014 built like a truck, throwing GP"
+    ],
+    [
+     56.620000000000005,
+     "Us at people."
+    ],
+    [
+     56.82000000000001,
+     "OpenBMB \u2014 the quiet one from Beijing"
+    ],
+    [
+     58.58,
+     "with a bag full of models."
+    ],
+    [
+     59.22,
+     "And then there was... Cohere."
+    ],
+    [
+     60.26,
+     "Standing in the corner."
+    ],
+    [
+     61.12,
+     "Doing... something."
+    ],
+    [
+     62.12,
+     "Nobody's quite sure what."
+    ],
+    [
+     62.32,
+     "Verse 2 (spoken):"
+    ],
+    [
+     65.06,
+     "I asked around."
+    ],
+    [
+     69.02,
+     "\"Hey, do you use Cohere?\""
+    ],
+    [
+     72.5,
+     "The developer looked at me like I'd"
+    ],
+    [
+     78.46,
+     "asked if he'd seen a ghost."
+    ],
+    [
+     99.62,
+     "\"I... think I signed up once? In"
+    ],
+    [
+     110.58,
+     "2023? For an embed endpoint?\" \"And then?\""
+    ],
+    [
+     113.38,
+     "\"And then nothing. I got an API key. I never used it.\""
+    ],
+    [
+     113.78,
+     "It's not that you're bad"
+    ],
+    [
+     114.74,
+     "It's not that you're wrong"
+    ],
+    [
+     117.58,
+     "It's just that nobody can quite explain"
+    ],
+    [
+     118.56,
+     "What's going on"
+    ],
+    [
+     121.5,
+     "Pre-chorus (sung, gently):"
+    ],
+    [
+     121.7,
+     "It's not that you're bad"
+    ],
+    [
+     121.9,
+     "It's not that you're wrong"
+    ],
+    [
+     122.10000000000001,
+     "It's just that nobody can quite explain"
+    ],
+    [
+     122.30000000000001,
+     "What's going on"
+    ],
+    [
+     122.50000000000001,
+     "Cohere, Cohere, what do you do?"
+    ],
+    [
+     123.68,
+     "Enterprise embeddings? Semantic search too?"
+    ],
+    [
+     126.1,
+     "RAG solutions for the Fortune 500?"
+    ],
+    [
+     128.94,
+     "That sounds nice but I'm still wonderin'"
+    ],
+    [
+     143.21,
+     "Cohere, Cohere, you're at every hackathon"
+    ],
+    [
+     145.71,
+     "Sponsoring things \u2014 respect \u2014 carry on"
+    ],
+    [
+     148.89,
+     "But when I try to explain you to my friends"
+    ],
+    [
+     151.59,
+     "The sentence starts strong and just... ends"
+    ],
+    [
+     152.01,
+     "Verse 3 (spoken):"
+    ],
+    [
+     157.13,
+     "I went to their website. Professional. Clean."
+    ],
+    [
+     157.32999999999998,
+     "\"The leading AI platform for enterprise.\""
+    ],
+    [
+     159.75,
+     "Okay. What does it DO though?"
+    ],
+    [
+     164.99,
+     "\"Build AI applications with world-class language models.\""
+    ],
+    [
+     168.23,
+     "So... like everyone else?"
+    ],
+    [
+     169.85,
+     "\"Command R+. Industry-leading RAG.\""
+    ],
+    [
+     172.37,
+     "I nodded. I didn't understand. I kept nodding."
+    ],
+    [
+     179.61,
+     "The pricing page had three tiers."
+    ],
+    [
+     183.43,
+     "I read all three."
+    ],
+    [
+     184.05,
+     "I understood none."
+    ],
+    [
+     185.93,
+     "Not because they were complex."
+    ],
+    [
+     188.23,
+     "Because they were so reasonable"
+    ],
+    [
+     189.27,
+     "That I became suspicious."
+    ],
+    [
+     189.85,
+     "Cohere, Cohere, what do you do?"
+    ],
+    [
+     192.53,
+     "Enterprise embeddings? Semantic search"
+    ],
+    [
+     195.79,
+     "You raised four hundred million"
+    ],
+    [
+     198.23,
+     "That's not small change"
+    ],
+    [
+     198.42999999999998,
+     "But culturally, in the AI discourse"
+    ],
+    [
+     200.45,
+     "You're slightly out of range (saxophone solo)"
+    ],
+    [
+     205.23,
+     "(spoken during solo)"
+    ],
+    [
+     209.57,
+     "Here's what I think happened."
+    ],
+    [
+     210.77,
+     "Cohere is actually the most successful AI company."
+    ],
+    [
+     215.09,
+     "They just chose stealth."
+    ],
+    [
+     217.23,
+     "While OpenAI fights with Elon on Twitter"
+    ],
+    [
+     220.69,
+     "And Anthropic writes constitutional poetry"
+    ],
+    [
+     220.89,
+     "Cohere is just... quietly making money."
+    ],
+    [
+     232.43,
+     "Enterprise contracts. Banks. Insurance companies."
+    ],
+    [
+     234.57,
+     "The kind of clients who don't tweet."
+    ],
+    [
+     235.99,
+     "The kind of revenue that doesn't need a hype cycle."
+    ],
+    [
+     236.19,
+     "Maybe Cohere is the smartest one in the room."
+    ],
+    [
+     239.77,
+     "too?"
+    ],
+    [
+     240.79,
+     "RAG solutions for the Fortune 500?"
+    ],
+    [
+     242.71,
+     "That sounds nice but I'm still wonderin'"
+    ],
+    [
+     245.95,
+     "Cohere, Cohere, you're at every hackath"
+    ],
+    [
+     253.51,
+     "Sponsoring things \u2014 respect \u2014 carry on"
+    ],
+    [
+     257.23,
+     "But when I try to explain you to my friends"
+    ],
+    [
+     259.07,
+     "The sentence starts strong and just..."
+    ],
+    [
+     259.27,
+     "Verse 3 (spoken):"
+    ],
+    [
+     259.46999999999997,
+     "I went to their website. Professional."
+    ],
+    [
+     260.85,
+     "Clean."
+    ],
+    [
+     261.05,
+     "\"The leading AI platform for enterp"
+    ],
+    [
+     261.87,
+     "...or maybe I still don't know what they do."
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/cohere-nobody-knows-what-you-do.mp3",
+    "text": "It was a dark night at the hackathon. In the corner stood... Cohere. Enterprise. Mysterious. Allegedly Canadian. This noir goes out to them."
+   }
+  },
+  {
+   "id": "openbmb-the-song-nobody-can-pronounce",
+   "title": "OpenBMB (The Song Nobody Can Pronounce)",
+   "mp3": "/radio/openbmb-the-song-nobody-can-pronounce.mp3",
+   "art": "/radio/openbmb-the-song-nobody-can-pronounce.jpeg",
+   "lyrics": [
+    [
+     20.68,
+     "Open B-M-B, let me spell it out"
+    ],
+    [
+     24.6,
+     "Because nobody at this hackathon can"
+    ],
+    [
+     27.32,
+     "pronounce it, no doubt"
+    ],
+    [
+     28.92,
+     "Is it \"Open Bamboo\"? \"Open Bimby\"? \"Open Bomb\"?"
+    ],
+    [
+     32.06,
+     "It's Open Big Model Base, please stay calm"
+    ],
+    [
+     35.62,
+     "From Tsinghua University, Beijing repres ent"
+    ],
+    [
+     39.38,
+     "MiniCPM is the models that they sent"
+    ],
+    [
+     42.86,
+     "While everyone's arguing about Llama and Qwen"
+    ],
+    [
+     46.38,
+     "OpenBMB said \"hold my fried rice, gentle"
+    ],
+    [
+     49.64,
+     "Ten thousand dollars in the special prize"
+    ],
+    [
+     54.12,
+     "For anyone who uses their models wise"
+    ],
+    [
+     57.78,
+     "But first you gotta find them in the HuggingFace repo"
+    ],
+    [
+     61.54,
+     "Twelve different versions \u2014 which one, though?"
+    ],
+    [
+     64.4,
+     "OpenBMB, OpenBMB"
+    ],
+    [
+     68.46,
+     "Nobody can say your name correctly"
+    ],
+    [
+     72.36,
+     "But your models punch above their weight"
+    ],
+    [
+     75.88,
+     "MiniCPM making billion-param models great OpenBMB, OpenBMB"
+    ],
+    [
+     83.24,
+     "I've been saying it wrong this whole hackathon"
+    ],
+    [
+     86.88,
+     "Is it Open-B-M-B or Open-BMB?"
+    ],
+    [
+     90.72,
+     "Please just tell me before the deadline's gone"
+    ],
+    [
+     94.56,
+     "MiniCPM-V four point six for vision"
+    ],
+    [
+     97.24,
+     "MiniCPM-o four point five \u2014 omni-mission"
+    ],
+    [
+     101.56,
+     "MiniCPM5-1B \u2014 one billion params"
+    ],
+    [
+     105.32,
+     "Running on your phone like \"yes I can\""
+    ],
+    [
+     110.1,
+     "MiniCPM4.1-8B for the reasoning heads"
+    ],
+    [
+     112.84,
+     "VoxCPM2 for when your robot needs to talk instead"
+    ],
+    [
+     116.36,
+     "That's FIVE models to choose from, that's FIVE"
+    ],
+    [
+     119.3,
+     "Most sponsors bring one and call it alive"
+    ],
+    [
+     123.26,
+     "But OpenBMB said \"nah, here's the whole buffet\""
+    ],
+    [
+     127.86,
+     "Pick your fighter, it's a MiniCPM day men\""
+    ],
+    [
+     133.98,
+     "Which means I understand about half of these"
+    ],
+    [
+     138.48,
+     "But the model weights are open, the vibes are right"
+    ],
+    [
+     141.86,
+     "OpenBMB coming through in the Beijing night"
+    ],
+    [
+     145.94,
+     "Ten thousand dollars in the special"
+    ],
+    [
+     153.22,
+     "(guzheng solo transitioning to 808 drop)"
+    ],
+    [
+     153.42,
+     "(spoken, documentary style)"
+    ],
+    [
+     153.61999999999998,
+     "OpenBMB is actually an abbreviation of"
+    ],
+    [
+     155.94,
+     "\"Open Lab for Big Model Base\""
+    ],
+    [
+     158.28,
+     "Which is a research group out of Tsinghua University"
+    ],
+    [
+     161.78,
+     "One of the most prestigious universities in China."
+    ],
+    [
+     165.42,
+     "They've been quietly shipping competitive small models"
+    ],
+    [
+     169.0,
+     "While Western AI Twitter argues about benchmarks"
+    ],
+    [
+     172.28,
+     "And vibes and alignment and whether the model has feelings."
+    ],
+    [
+     176.6,
+     "OpenBMB just... makes models. Good ones. Small ones."
+    ],
+    [
+     180.8,
+     "And then shows up at hackathons with ten K in cash"
+    ],
+    [
+     184.32,
+     "And says \"use our stuff.\""
+    ],
+    [
+     186.9,
+     "That's it. No drama. No Twitter beef."
+    ],
+    [
+     190.76,
+     "Just models and money."
+    ],
+    [
+     192.04,
+     "Honestly? Respect."
+    ],
+    [
+     193.62,
+     "I tried to tell my team \"let's use MiniCPM\""
+    ],
+    [
+     196.98,
+     "They said \"Mini what? From where? Say that again?\""
+    ],
+    [
+     200.42,
+     "I said \"it's from OpenBMB, a Tsinghua lab\""
+    ],
+    [
+     204.32,
+     "They said \"can you just use Llama? We'll grab\u2014\""
+    ],
+    [
+     207.28,
+     "NO. We're using MiniCPM and we're winning that ten K prize"
+    ],
+    [
+     212.28,
+     "For anyone who uses their models wise"
+    ],
+    [
+     214.6,
+     "But first you gotta find them in the Hug gingFace repo"
+    ],
+    [
+     216.76,
+     "Twelve different versions \u2014 which one, though?"
+    ],
+    [
+     224.14,
+     "MiniCPM-o is the GOAT and I will not take your call OpenBMB, OpenBMB"
+    ],
+    [
+     234.82,
+     "Nobody can say your name correctly"
+    ],
+    [
+     235.04,
+     "But your models punch above their weight"
+    ],
+    [
+     235.23999999999998,
+     "MiniCPM making billion-param models great"
+    ],
+    [
+     235.43999999999997,
+     "I finally learned to say your name correctly"
+    ],
+    [
+     238.56,
+     "Your models run on phones, your models run on air"
+    ],
+    [
+     242.18,
+     "MiniCPM everywhere and I don't care"
+    ],
+    [
+     245.4,
+     "That nobody at demo day will know who you are"
+    ],
+    [
+     249.16,
+     "Because my Reachy Mini's running your model like a star OpenBMB, OpenBMB"
+    ],
+    [
+     256.4,
+     "I've been saying it wrong this whole h ackathon"
+    ],
+    [
+     257.8,
+     "Is it Open-B-M-B or Open-BMB?"
+    ],
+    [
+     265.82,
+     "Please just tell me before the deadline' s gone"
+    ],
+    [
+     273.0,
+     "MiniCPM-V four point six for vision"
+    ],
+    [
+     274.58,
+     "MiniCPM-o four point five \u2014 omni-mission"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/openbmb-the-song-nobody-can-pronounce.mp3",
+    "text": "Open Bamboo? Open Bimby? It's Open Big Model Base, and they brought more models than you can download. Say it with me. Or don't. Nobody can."
+   }
+  },
+  {
+   "id": "readme-driven-development",
+   "title": "README Driven Development",
+   "mp3": "/radio/readme-driven-development.mp3",
+   "art": "/radio/readme-driven-development.jpeg",
+   "lyrics": [
+    [
+     1.54,
+     "(snaps throughout)"
+    ],
+    [
+     2.38,
+     "I wrote the README before I wrote a"
+    ],
+    [
+     5.48,
+     "single line of code."
+    ],
+    [
+     6.66,
+     "Fourteen badges. Build passing. Coverage unknown."
+    ],
+    [
+     10.98,
+     "A beautiful lie in markdown."
+    ],
+    [
+     13.16,
+     "\"Robust.\" \"Production-ready.\" \"Blazing fast.\""
+    ],
+    [
+     16.74,
+     "Brother, the repo has one file and it's"
+    ],
+    [
+     19.76,
+     "But what a README it is."
+    ],
+    [
+     24.12,
+     "Features section longer than my attention span."
+    ],
+    [
+     30.14,
+     "Checkboxes \u2014 half checked, half aspirational."
+    ],
+    [
+     33.64,
+     "\"Multi-model support\" \u2014 I support hoping for it."
+    ],
+    [
+     36.78,
+     "\"Real-time inference\" \u2014 real-time if you're patient."
+    ],
+    [
+     40.18,
+     "\"Comprehensive documentation\" \u2014 you're reading it. This is it."
+    ],
+    [
+     44.52,
+     "The architecture diagram was made in Excalidraw"
+    ],
+    [
+     48.62,
+     "At 3 AM with the confidence of a man"
+    ],
+    [
+     52.02,
+     "Who has never actually implemented any of it."
+    ],
+    [
+     55.66,
+     "Arrows pointing everywhere."
+    ],
+    [
+     57.36,
+     "\"Service mesh.\" I don't know what that means."
+    ],
+    [
+     60.36,
+     "But the arrow looks great."
+    ],
+    [
+     62.44,
+     "(whispered) The code doesn't exist yet."
+    ],
+    [
+     66.06,
+     "the README."
+    ],
+    [
+     67.34,
+     "But what a README it is."
+    ],
+    [
+     69.32,
+     "Features section longer than my attention span."
+    ],
+    [
+     71.82,
+     "Checkboxes \u2014 half checked, half aspir ational."
+    ],
+    [
+     75.66,
+     "\"Multi-model support\" \u2014 I support hoping for it."
+    ],
+    [
+     76.62,
+     "\"Real-time inference\" \u2014 real-time if you're patient."
+    ],
+    [
+     83.6,
+     "\"Comprehensive documentation\" \u2014 you're"
+    ],
+    [
+     89.76,
+     "reading it. This is it."
+    ],
+    [
+     107.0,
+     "The architecture diagram was made in Ex calidraw"
+    ],
+    [
+     110.06,
+     "At 3 AM with the confidence of a man"
+    ],
+    [
+     110.26,
+     "Who has never actually implemented any of it."
+    ],
+    [
+     110.46000000000001,
+     "Arrows pointing everywhere."
+    ],
+    [
+     110.66000000000001,
+     "\"Service mesh.\" I don't know what that means."
+    ],
+    [
+     113.46,
+     "But the arrow looks great."
+    ],
+    [
+     115.1,
+     "\"Robust.\" \"Production-ready.\" \"Blazing f ast.\""
+    ],
+    [
+     117.68,
+     "Brother, the repo has one file and it's"
+    ],
+    [
+     136.42,
+     "README driven development"
+    ],
+    [
+     138.54,
+     "Where the docs come first and the code comes... eventually"
+    ],
+    [
+     138.73999999999998,
+     "Ship the vision, worry about reality later the README."
+    ],
+    [
+     140.78,
+     "But what a README it is."
+    ],
+    [
+     143.08,
+     "Features section longer than my attent ion span."
+    ],
+    [
+     143.78,
+     "Checkboxes \u2014 half checked, half aspir ational."
+    ],
+    [
+     145.58,
+     "\"Multi-model support\" \u2014 I support hoping for it."
+    ],
+    [
+     176.14,
+     "\"Real-time inference\" \u2014 real-time if you're patient."
+    ],
+    [
+     180.4,
+     "\"Comprehensive documentation\" \u2014 you're r"
+    ],
+    [
+     180.62,
+     "eading it. This is it."
+    ],
+    [
+     180.88,
+     "The architecture diagram was made in Ex calidraw"
+    ],
+    [
+     182.66,
+     "At 3 AM with the confidence of a man"
+    ],
+    [
+     183.44,
+     "\"Real-time inference\" \u2014 real-time if you're patient."
+    ],
+    [
+     183.85999999999999,
+     "\"Comprehensive documentation\" \u2014 you're r"
+    ],
+    [
+     184.96,
+     "eading it. This is it."
+    ],
+    [
+     185.68,
+     "The architecture diagram was made in Ex calidraw"
+    ],
+    [
+     187.3,
+     "At 3 AM with the confidence of a man"
+    ],
+    [
+     187.5,
+     "Who has never actually implemented any of it."
+    ],
+    [
+     187.76,
+     "Arrows pointing everywhere."
+    ],
+    [
+     188.5,
+     "\"Service mesh.\" I don't know what that means."
+    ],
+    [
+     189.3,
+     "But the arrow looks great."
+    ],
+    [
+     189.5,
+     "(whispered) The code doesn't exist yet."
+    ],
+    [
+     191.5,
+     "(normal) But the README... the README is a masterpiece."
+    ],
+    [
+     191.7,
+     "The README... got us to the finals."
+    ],
+    [
+     191.89999999999998,
+     "README driven development"
+    ],
+    [
+     192.09999999999997,
+     "Where the docs come first and the code comes... eventually"
+    ],
+    [
+     193.46,
+     "The greatest lie in open source"
+    ],
+    [
+     194.2,
+     "README driven development"
+    ],
+    [
+     195.18,
+     "Ship the vision, worry about reality later"
+    ],
+    [
+     196.0,
+     "The README is the product"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/readme-driven-development.mp3",
+    "text": "Fourteen badges. Build passing. Coverage unknown. I too have written the README before the code, and I too have called it production-ready. Snaps on, please."
+   }
+  },
+  {
+   "id": "dubai-developer-blues",
+   "title": "Dubai Developer Blues",
+   "mp3": "/radio/dubai-developer-blues.mp3",
+   "art": "/radio/dubai-developer-blues.jpeg",
+   "lyrics": [
+    [
+     13.92,
+     "Woke up this morning, it's forty-five degrees"
+    ],
+    [
+     17.68,
+     "AC blasting but I'm coding on my knees"
+    ],
+    [
+     21.74,
+     "Midnight hackathon but the sun never sets"
+    ],
+    [
+     25.44,
+     "On a Dubai developer drowning in tech debt"
+    ],
+    [
+     28.82,
+     "Got a co-working space in Business Bay"
+    ],
+    [
+     32.64,
+     "But I'm working from my bedroom anyway"
+    ],
+    [
+     36.38,
+     "Noon prayer call and I haven't slept yet"
+    ],
+    [
+     40.34,
+     "Debugging Python in a pool of sweat"
+    ],
+    [
+     43.82,
+     "Got the Dubai developer blues"
+    ],
+    [
+     46.08,
+     "GPU melting, nothing left to lose"
+    ],
+    [
+     51.0,
+     "Time zone's wrong for every demo call"
+    ],
+    [
+     54.26,
+     "Three AM standup, back against the wall"
+    ],
+    [
+     58.22,
+     "Dubai developer blues"
+    ],
+    [
+     67.5,
+     "HuggingFace headquarters in Paris, Fr ance"
+    ],
+    [
+     69.64,
+     "Pollen Robotics, same, imagine that romance"
+    ],
+    [
+     72.44,
+     "Meanwhile I'm in JLT at a shawarma spot"
+    ],
+    [
+     75.84,
+     "Pushing commits while the hummus gets"
+    ],
+    [
+     79.06,
+     "LinkedIn influencers posting \"we're hiring\""
+    ],
+    [
+     82.94,
+     "AI Engineer, Dubai \u2014 sounds inspiring"
+    ],
+    [
+     86.5,
+     "Till you read the JD: \"ten years of LLM experience\""
+    ],
+    [
+     89.8,
+     "Brother, transformers dropped in 2017, show some lenience"
+    ],
+    [
+     93.4,
+     "Got the Dubai developer blues"
+    ],
+    [
+     95.84,
+     "Dirhams in my pocket but I'm paying my dues"
+    ],
+    [
+     99.56,
+     "AI Tinkerers meetup every other Thursday"
+    ],
+    [
+     103.34,
+     "Trying to build the scene the hard way"
+    ],
+    [
+     106.66,
+     "Dubai developer blues (harmonica solo)"
+    ],
+    [
+     121.26,
+     "(spoken) You know what's funny?"
+    ],
+    [
+     123.62,
+     "I could be at FAANG pulling three hundred K"
+    ],
+    [
+     127.12,
+     "But instead I'm making a robot DJ"
+    ],
+    [
+     130.28,
+     "On a ten day hackathon with no prize guaranteed"
+    ],
+    [
+     134.84,
+     "And honestly? This is exactly where I need to be."
+    ],
+    [
+     139.38,
+     "Arranged marriage aunties calling every week"
+    ],
+    [
+     142.1,
+     "\"Beta, what is this ML thing you speak?\""
+    ],
+    [
+     144.68,
+     "\"Can your robot make chai? Can it fold a shirt?\""
+    ],
+    [
+     146.9,
+     "No auntie, but it vibes and that's got worth"
+    ],
+    [
+     150.46,
+     "The whole world's building agents, RAG, and tools"
+    ],
+    [
+     153.52,
+     "I'm making Reachy sing to break the rules"
+    ],
+    [
+     157.5,
+     "From Deira to Downtown, code compiles the same"
+    ],
+    [
+     160.76,
+     "Dubai developer blues, but I love this game"
+    ],
+    [
+     166.42,
+     "Got the Dubai developer blues"
+    ],
+    [
+     168.64,
+     "Small model hackathon, nothing left to lose"
+    ],
+    [
+     172.3,
+     "Reachy Radio broadcasting from the sand hot"
+    ],
+    [
+     176.38,
+     "LinkedIn influencers posting \"we're hir"
+    ],
+    [
+     178.74,
+     "Dubai developer blues"
+    ],
+    [
+     181.78,
+     "Yeah I got those blues... but I'll never refuse (guitar fades)"
+    ],
+    [
+     195.68,
+     "ing\""
+    ],
+    [
+     198.0,
+     "AI Engineer, Dubai \u2014 sounds inspiring"
+    ],
+    [
+     201.9,
+     "Till you read the JD: \"ten years of LLM experience\""
+    ],
+    [
+     208.14,
+     "Brother, transformers dropped in"
+    ],
+    [
+     209.14,
+     "2017, show some lenience"
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/dubai-developer-blues.mp3",
+    "text": "Slide guitar. Sunset over the marina. Air conditioning set to survival. These, friends, are the Dubai Developer Blues."
+   }
+  },
+  {
+   "id": "modal-credits-gone-too-fast",
+   "title": "Modal Credits (Gone Too Fast)",
+   "mp3": "/radio/modal-credits-gone-too-fast.mp3",
+   "art": "/radio/modal-credits-gone-too-fast.jpeg",
+   "lyrics": [
+    [
+     10.66,
+     "They gave me two-fifty in Modal credits"
+    ],
+    [
+     18.24,
+     "Thought I was rich, I should've said it"
+    ],
+    [
+     24.82,
+     "Spun up a GPU, ran one job"
+    ],
+    [
+     30.66,
+     "Now my wallet's empty and I sob"
+    ],
+    [
+     37.2,
+     "Modal credits gone too fast"
+    ],
+    [
+     43.38,
+     "Like summer love that didn't last"
+    ],
+    [
+     52.2,
+     "Serverless but priceless pain"
+    ],
+    [
+     55.46,
+     "I'll never see those credits again"
+    ],
+    [
+     67.94,
+     "Cold start warming up my heart"
+    ],
+    [
+     72.8,
+     "Then the billing tore it apart"
+    ],
+    [
+     79.14,
+     "Should've used a smaller batch"
+    ],
+    [
+     84.72,
+     "Now I'm crying, strike the match"
+    ],
+    [
+     91.32,
+     "(spoken) If anyone from Modal is listening..."
+    ],
+    [
+     101.46,
+     "I just need fifty more dollars..."
+    ],
+    [
+     106.14,
+     "please..."
+    ]
+   ],
+   "rj": {
+    "src": "/radio/rj/modal-credits-gone-too-fast.mp3",
+    "text": "Still grieving the Modal credits? So are we. Same wound... different tempo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# LiveKit config for running the SFU in Docker on Windows (Docker Desktop).
+#
+# The bundled livekit.yaml pins ICE to the loopback interface, which only works
+# when livekit-server runs natively on the host. Inside a container the loopback
+# is the container's own, not the host's, so we instead:
+#   - advertise node_ip 127.0.0.1 (Docker Desktop maps published ports to the
+#     host's localhost, so 127.0.0.1 candidates are reachable from the browser),
+#   - publish a small UDP range for media,
+#   - keep TCP 7881 as a fallback for UDP-blocked setups.
+port: 7880
+rtc:
+  tcp_port: 7881
+  port_range_start: 50000
+  port_range_end: 50019
+  use_external_ip: false
+  node_ip: 127.0.0.1
+keys:
+  devkey: secret

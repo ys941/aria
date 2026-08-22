@@ -1,0 +1,16 @@
+# Local LiveKit SFU for Aria dev, via Docker Desktop on Windows.
+#   docker compose -f docker-compose.livekit.yml up
+# Pinned to v1.12.0: v1.13.x answers Firefox/Gecko with a mismatched Opus
+# payload type in single-PC mode (audio arrives silent). The client uses dual
+# peer connection, but the older server is the safe pairing.
+services:
+  livekit:
+    image: livekit/livekit-server:v1.12.0
+    command: --config /etc/livekit.yaml
+    restart: unless-stopped
+    ports:
+      - "7880:7880"            # signaling (WebSocket)
+      - "7881:7881"            # TCP fallback for media
+      - "50000-50019:50000-50019/udp"  # WebRTC media (UDP)
+    volumes:
+      - ./livekit-docker.yaml:/etc/livekit.yaml:ro
