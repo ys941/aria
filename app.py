@@ -21,7 +21,7 @@ from backend.attribution import assert_attribution
 from backend.server import attach
 
 # Attribution gate -- refuses to boot without credit to the original author.
-# See backend/attribution.py and LICENSE clause 2.
+# See backend/attribution.py and COPYRIGHT.md.
 assert_attribution()
 
 DIST = pathlib.Path(__file__).parent / "frontend" / "dist"

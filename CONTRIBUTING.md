@@ -136,7 +136,7 @@ condition, and it is deliberately small:
   Strip the credit and the app refuses to boot. Nothing is transmitted — both checks
   are local.
 
-This is **clause 2 of the [licence](LICENSE)**, so it applies whether or not the check
+This is the project's **attribution requirement** (see [COPYRIGHT.md](COPYRIGHT.md)), so it applies whether or not the check
 is present — deleting [`backend/attribution.py`](backend/attribution.py) does not remove
 the obligation.
 
@@ -175,7 +175,7 @@ days before disclosing publicly. You'll be credited unless you'd rather not be.
 
 ## 📜 Licence
 
-Contributions are made under the [MIT Licence with Attribution Requirement](LICENSE),
+Contributions are made under the [MIT Licence](LICENSE),
 the same as the project.
 
 See [COPYRIGHT.md](COPYRIGHT.md) for exactly what you may and may not do with this code —

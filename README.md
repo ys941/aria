@@ -8,7 +8,22 @@
 
 `three.js` · `LiveKit` · `Groq Llama 3.3` · `Gemini` · `Orpheus TTS` · `FastAPI`
 
+[![CI](https://github.com/ys941/aria/actions/workflows/ci.yml/badge.svg)](https://github.com/ys941/aria/actions/workflows/ci.yml)
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-3fb950)](LICENSE)
+
 **Built by Yati Bhardwaj**
+
+</div>
+
+---
+
+<div align="center">
+
+![Aria — the robots are talking back](docs/screenshots/aria-hero.png)
+
+| A live show, mid-argument | Reachy FM — the robot radio |
+|:---:|:---:|
+| ![Two robot hosts debate "is a hot dog a sandwich" with live subtitles](docs/screenshots/aria-groupchat.png) | ![DJ Servo spins AI-written songs with synced karaoke lyrics](docs/screenshots/aria-radio.png) |
 
 </div>
 
@@ -199,7 +214,7 @@ Built with ❤️ by **Yati Bhardwaj**.
 
 ## 📄 Licence
 
-Released under the **[MIT Licence with Attribution Requirement](LICENSE)** — use it,
+Released under the **[MIT Licence](LICENSE)** — use it,
 fork it, rebrand it, sell what you build with it.
 
 ### ⭐ One condition: attribution

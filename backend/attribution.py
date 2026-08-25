@@ -1,7 +1,8 @@
 """Attribution enforcement.
 
-Clause 2 of the LICENCE requires that any deployment other people can see
-displays visible credit to the original author. Two checks run once, when the
+The project's attribution requirement (see COPYRIGHT.md) asks that any
+deployment other people can see displays visible credit to the original
+author. Two checks run once, when the
 server starts:
 
   1. ACKNOWLEDGEMENT -- ATTRIBUTION_ACK must be set to the author's profile.
@@ -12,7 +13,7 @@ If it cannot inspect anything (an unusual deployment layout, a read-only or
 partial filesystem) it warns and lets the app start, so a legitimate deployment
 is never broken by a check that simply could not see the file.
 
-Removing these checks does not remove the obligation -- see LICENSE clause 2.
+Removing these checks does not remove the ask -- see COPYRIGHT.md.
 """
 
 from __future__ import annotations
@@ -79,8 +80,7 @@ _ACK_FAILURE = f"""
   Aria will not start without attribution.
 
   It is free to use, fork, rebrand and sell — the one condition is that
-  credit to the original author stays visible. That is clause 2 of the
-  LICENCE, not a preference.
+  credit to the original author stays visible. See COPYRIGHT.md.
 
   Add this to your .env (or your host's environment):
 
@@ -100,8 +100,8 @@ def _credit_failure(where: str) -> str:
 ────────────────────────────────────────────────────────────────────────
   The author credit has been removed from {where}.
 
-  Clause 2 of the LICENCE requires any deployment other people can see to
-  display visible credit to the original author:
+  This project's attribution requirement (COPYRIGHT.md) asks any
+  deployment other people can see to display visible credit:
 
       Made with love by {AUTHOR_NAME} — {AUTHOR_URL}
 
@@ -119,7 +119,7 @@ def assert_attribution() -> None:
         print(_ACK_FAILURE, file=sys.stderr)
         raise RuntimeError(
             f'Attribution required: set ATTRIBUTION_ACK="{AUTHOR_URL}" to start Aria. '
-            "See LICENSE clause 2."
+            "See COPYRIGHT.md."
         )
 
     status, detail = check_visible_credit()
@@ -128,12 +128,12 @@ def assert_attribution() -> None:
         print(_credit_failure(detail), file=sys.stderr)
         raise RuntimeError(
             f"Attribution required: the author credit is missing from {detail}. "
-            "See LICENSE clause 2."
+            "See COPYRIGHT.md."
         )
 
     if status == "unverifiable":
         print(
             f"[attribution] Could not verify the visible credit ({detail}). "
-            "Clause 2 of the LICENCE still requires it to be displayed.",
+            "The project's attribution requirement (COPYRIGHT.md) still asks for it.",
             file=sys.stderr,
         )

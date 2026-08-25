@@ -3,7 +3,8 @@
 **Aria**
 Copyright © 2026 **Yati Bhardwaj** ([@ys941](https://github.com/ys941))
 
-Licensed under the [MIT Licence with Attribution Requirement](LICENSE).
+Licensed under the [MIT Licence](LICENSE), with the visible-credit attribution
+requirement described below (the app checks it at startup).
 
 ---
 
@@ -43,7 +44,7 @@ Keep that file in any copy or substantial portion you distribute.
 
 ### 2. Keep the author credit visible
 
-**This is clause 2 of the [licence](LICENSE), not a courtesy.** Any deployment other
+**This is the project's attribution requirement, not a courtesy.** Any deployment other
 people can see must display legible credit to the author:
 
 > Built by Yati Bhardwaj — https://github.com/ys941
@@ -65,7 +66,7 @@ no licence server is contacted. The value is compared to a string in
 [`lib/attribution.ts`](lib/attribution.ts) and that is all.
 
 > **A note on the check:** it is easy to delete, and you are free to modify this
-> code. But clause 2 of the licence requires the visible credit regardless of whether
+> code. But the attribution requirement stands regardless of whether
 > the check is present — removing the check does not remove the obligation, it just
 > means the software stops reminding you of it.
 
