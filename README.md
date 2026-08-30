@@ -206,6 +206,13 @@ Paste the two deployed URLs (and the keys) into `.env` as `MODAL_*` and they slo
 
 ---
 
+## ⭐ Star the repo
+
+If Aria made you smile, star it. There is no marketing behind this project —
+a star is genuinely how the next person ends up finding it.
+
+---
+
 ## 📜 Credits & license
 
 3D assets (URDF + STL) are from [pollen-robotics/reachy-mini-desktop-app](https://huggingface.co/pollen-robotics) (Apache-2.0); the prop library is CC-BY (attribution in the manifest). Brains run on Groq (Llama 3.3), Google Gemini, optional Modal-hosted Nemotron 4B, and optional xAI Grok; voices use Groq Orpheus TTS with optional Qwen3-TTS on Modal.
